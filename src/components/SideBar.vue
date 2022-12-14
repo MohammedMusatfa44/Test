@@ -1,7 +1,7 @@
 <template>
     <div class="side col-lg-3 me-auto position-absolute h-100">
         <div class="logo d-flex justify-content-center align-items-center">
-            <img src="../../dist/img/Frame.png" alt="" />
+            <img src="../assets/Frame.png" alt="" />
         </div>
         <div class="sibbar">
             <ul>
